@@ -1,16 +1,19 @@
-### Hi there 👋
+<h1 align="center">ℍ𝕚, 𝕀'𝕞 𝕆𝕝𝕘𝕒<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">𝕁𝕦𝕟𝕚𝕠𝕣 𝕁𝕒𝕧𝕒 𝕕𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣</h3>
 
-<!--
-**Feirina/Feirina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 📫 How to reach me: murai.kai@gmail.com 
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Feirina&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Feirina)  
+
+![GitHub metrics](https://metrics.lecoq.io/Feirina)  
