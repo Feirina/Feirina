@@ -7,11 +7,11 @@ Skills:
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-
-
-- 📫 How to reach me: murai.kai@gmail.com 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Feirina&show_icons=true)  
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Feirina)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Feirina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+- 📫 How to reach me: murai.kai@gmail.com 
